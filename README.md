@@ -1,8 +1,8 @@
 # Public-Projects
 This Repository stores all projects meant for the general public
- 📈 Evaluating Stock Return Predictability and Trading Performance Using LASSO
+ ## Evaluating Stock Return Predictability and Trading Performance Using LASSO
 
-##Objective
+## Objective
 This project investigates whether next-day stock returns can be predicted using historical price data and technical indicators, and whether such predictions can be translated into a profitable trading strategy.
 
 ---
