@@ -89,7 +89,7 @@ Strategy performance was compared against a buy-and-hold benchmark.
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 While machine learning can identify weak predictive signals in financial data, translating these signals into consistent trading profits remains challenging. This project demonstrates the importance of linking predictive modeling to economic outcomes.
 
